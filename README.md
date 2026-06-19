@@ -14,8 +14,6 @@ A small command-line game written in C. The program chooses a random integer bet
 
 - `main.c` — game source code
 - `README.md` — this file
-- (optional) Makefile — convenience build rules
-- (optional) .gitignore — to ignore build artifacts (e.g., the compiled binary)
 
 ## Build
 
