@@ -1,5 +1,5 @@
 
-Readme · MD
+
 # Number Guessing Game
  
 A simple command-line game written in C. The computer picks a random
