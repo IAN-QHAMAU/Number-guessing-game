@@ -12,8 +12,8 @@ A small command-line game written in C. The program chooses a random integer bet
 
 ## Files
 
-- `main.c` — game source code
-- `README.md` — this file
+- `main.c` - game source code
+- `README.md` - this file
 
 ## Build
 
